@@ -1,0 +1,18 @@
+.box {
+    width: 250px;
+    height: 330px;
+  
+    border: 1px solid;
+    box-shadow: 0px 2px 2px 0px;
+}
+.image {
+    height: 40%;
+    background-color: red
+}
+.content {
+    height: 40%;
+   
+}
+.box-btn {
+    box-sizing: border-box;
+}

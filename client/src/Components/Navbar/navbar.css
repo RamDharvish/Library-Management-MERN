@@ -1,0 +1,19 @@
+.navbar {
+    background-color:  	#404040;
+}
+.right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right .link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+}
+.right .link:hover {
+    color: blue;
+}
+.cart {
+    font-size: 25px;
+}

@@ -1,0 +1,24 @@
+.home {
+    background: url('../Assets/janko-ferlic-sfL_QOnmy00-unsplash.jpg') center;
+    background-size: cover;
+    height: 100vh;
+}
+.row {
+    width: 100%;
+    color: #fff;
+}
+
+
+/* admin */
+
+.admin {
+    width: 60%;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+@media (max-width: 800px) {
+    .admin {
+        width: 100%;
+    }
+}

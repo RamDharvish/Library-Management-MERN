@@ -1,0 +1,12 @@
+.addBook {
+    width: 60%;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+
+@media (max-width: 800px) {
+    .addBook {
+        width: 100%;
+    }
+}
